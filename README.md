@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sergio6936
 - 👀 I’m interested in Web developement
 - 🌱 I’m currently learning HTML5 and CSS
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
